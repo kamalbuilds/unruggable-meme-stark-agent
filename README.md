@@ -16,6 +16,8 @@
 - 🔥 **Burner Wallet & Prefunded Account**: Quickly test your application with a burner wallet and prefunded accounts.
 - 🔐 **Integration with Wallet Providers**: Connect to different wallet providers and interact with Starknet network.
 
+## Demo Video
+
 ![Debug Contracts tab](./packages/nextjs/public/debug-image.png)
 
 ## Requirements
